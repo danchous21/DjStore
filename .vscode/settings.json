@@ -10,7 +10,7 @@
     "debug.autoExpandLazyVariables": "on",
 
     "editor.minimap.enabled": false,
-    "workbench.colorTheme": "Monokai",
+    "workbench.colorTheme": "Palenight (Mild Contrast)",
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.cursorBlinking": true,
     "window.commandCenter": false,
@@ -71,6 +71,7 @@
             "strings": true
         }
     },
-    "liveServer.settings.donotShowInfoMsg": true
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontSize": 15,
   }
   
